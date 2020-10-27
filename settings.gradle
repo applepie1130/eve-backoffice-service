@@ -1,0 +1,4 @@
+rootProject.name = 'eve-backoffice-service'
+include 'eve-api'
+include 'eve-gateway'
+include 'eve-deploy'
